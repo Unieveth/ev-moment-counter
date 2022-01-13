@@ -1,0 +1,14 @@
+{
+  "name": "ev-moment-counter",
+  "version": "1.0.0",
+  "description": "Counter of EV moments",
+  "main": "index.ts",
+  "repository": "git@github.com:Unieveth/ev-moment-counter.git",
+  "author": "Unieveth <git@unieveth.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^13.5.1",
+    "dotenv": "^11.0.0"
+  }
+}
