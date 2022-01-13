@@ -6,7 +6,6 @@ import counterSchema from '../schema/counter-schema'
 export default {
     category: 'EVMoments',
     description: 'See the current number of EV Moments',
-    testOnly: true,
     slash: true,
 
     callback: async ({interaction, args}) => {

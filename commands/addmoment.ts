@@ -6,7 +6,6 @@ import counterSchema from '../schema/counter-schema'
 export default {
     category: 'EVMoments',
     description: 'Add EV Moments',
-    testOnly: true,
     slash: true,
     minArgs: 1,
     expectedArgs: '<amount>',
