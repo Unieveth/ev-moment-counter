@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Counter of EV moments",
   "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "dev": "nodemon index.ts"
+  },
   "repository": "git@github.com:Unieveth/ev-moment-counter.git",
   "author": "Unieveth <git@unieveth.com>",
   "license": "MIT",
